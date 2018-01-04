@@ -16,19 +16,17 @@ be notified when it breaks or when it reconnects.
 Some other ideas/features for the future:
 -----------------------------------------
 
--   hide in tray
+-   hide in tray (tray icon)
 
 -   distribute traffic (add some other image providers)
 
 -   settings
 
-    -   sounds
+    -   different sounds/custom sounds
 
-    -   sheck interval
+    -   custom check interval
 
-    -   colours
-
-    -   ...
+    -   custom colours
 
 -   blinking
 
