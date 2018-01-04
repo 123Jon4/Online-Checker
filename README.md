@@ -9,7 +9,9 @@ scaleable and stays always-on-top.
 Very useful for example if you have an unstable internet connection and want to
 be notified when it breaks or when it reconnects.
 
- 
+|            Online             |              Offline              |
+| :---------------------------: | :-------------------------------: |
+| ![](documentation/online.png) | ![img](documentation/offline.png) |
 
 Some other ideas/features for the future:
 -----------------------------------------
@@ -42,7 +44,7 @@ Sources
 -   UI Confirmation Alert, B4.wav, InspectorJ,
     https://freesound.org/people/InspectorJ/sounds/403014/
 
- 
+
 
 IMPORTANT
 ---------
