@@ -50,5 +50,4 @@ IMPORTANT
 *Please dont use it all day long, cause I dont know how many traffic the image
 hoster can manage, although the image is just 1x1 pixels.*
 
-**If you are the hoster and have problems with my software just write me. I then
-will immediately remove it.**
+**If you are the hoster and have problems with my software just write me. I will immediately remove it then.**
