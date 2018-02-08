@@ -13,6 +13,8 @@ be notified when it breaks or when it reconnects.
 | :---------------------------: | :-------------------------------: |
 | ![](documentation/online.png) | ![img](documentation/offline.png) |
 
+You can download it here: https://github.com/123Jon4/online-checker/releases/tag/1.0.0_beta
+
 Some other ideas/features for the future:
 -----------------------------------------
 
