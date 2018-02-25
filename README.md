@@ -35,6 +35,7 @@ Some other ideas/features for the future:
 -   statistics
 
     -   Up/Down time
+-   Show downtime
 
 Sources
 -------
