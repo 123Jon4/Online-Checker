@@ -19,22 +19,15 @@ Some other ideas/features for the future:
 -----------------------------------------
 
 -   hide in tray (tray icon)
-
--   distribute traffic (add some other image providers)
-
--   settings
-
-    -   different sounds/custom sounds
-
-    -   custom check interval
-
-    -   custom colours
-
+-   distribute traffic (add some other image and ip providers)
+-   randomize check intervals
 -   blinking
-
 -   statistics
-
     -   Up/Down time
+-   settings
+    -   different sounds/custom sounds
+    -   custom check interval
+    -   custom colours
 -   Show downtime
 
 Sources
